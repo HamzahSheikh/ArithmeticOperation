@@ -18,7 +18,8 @@ public class ArithmeticOperationsTest {
 		//assertEquals(expected, actual);
 		fail("Forcing Build to Fail");
 
-	//}
+	}
+
     //@Test
     //public void testSub()
     //{
@@ -31,4 +32,4 @@ public class ArithmeticOperationsTest {
 
    // }
 
-}
+//}
