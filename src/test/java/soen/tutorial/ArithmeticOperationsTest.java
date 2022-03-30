@@ -16,7 +16,7 @@ public class ArithmeticOperationsTest {
 		Integer actual = operations.addOrSub(2, 6);
 		Integer expected = 8;
 		//assertEquals(expected, actual);
-		fail("Forcing Build to Fail");
+		fail("must fail");
 
 	}
 
